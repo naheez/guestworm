@@ -9,4 +9,4 @@ This website's domain guestworm.com is registered in IBM® Cloud SoftLayer™ an
 
 
 
-![Naheez](guestworm-183020/www/assets/images/20180728-190317-2000x1500-800x600.jpg)
+![](https://www.guestworm.com/assets/images/20180728-190317-2000x1500.jpg)
