@@ -1,6 +1,7 @@
-**WELCOME TO NAHEEZ THAWFEEG'S PERSONAL WEBSITE, AN OPEN SOURCE CODE WEBSITE DEVELOPED USING MOBIRISE 4.**
+![Naheez](https://2.bp.blogspot.com/-czBMUcBdtgk/W111bk9cxgI/AAAAAAABXW8/i3wAJvV1nzMKoxbcwGE5CjACB2Mv9SPnACLcBGAs/s1600/20180728_190316.jpg)
 
- ***GUESTWORM.COM IS A PROJECT BY NAHEEZ THAWFEEG SINCE 2003-2004 and 2008-ON WARDS***
+WELCOME TO NAHEEZ THAWFEEG'S PERSONAL WEBSITE, AN OPEN SOURCE CODE WEBSITE DEVELOPED USING MOBIRISE 4.
 
-**This website's domain guestworm.com is registered in IBM® Cloud SoftLayer™ and files are hosted in Google Cloud™ App Engine™ and site is served by Cloudflare®.
-The source code of this website is hosted here and free and my photos in the site are hosted here and free.**
+GUESTWORM.COM IS A PROJECT BY NAHEEZ THAWFEEG SINCE 2003-2004 and 2008-ON WARDS
+
+This website's domain guestworm.com is registered in IBM® Cloud SoftLayer™ and files are hosted in Google Cloud™ App Engine™ and site is served by Cloudflare®. The source code of this website is hosted here and free and my photos in the site are hosted here and free.
