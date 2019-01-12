@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Naheez Thawfeeg's Personal Website",
-    "currentPage": "privacypolicy.html",
+    "currentPage": "contact.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -1712,6 +1712,12 @@
             ".input-group-btn": {
               "display": "block",
               "text-align": "center"
+            },
+            "H2": {
+              "color": "#ffffff"
+            },
+            "LABEL": {
+              "color": "#ffffff"
             }
           },
           "_name": "form1",
